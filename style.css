@@ -35,7 +35,7 @@ a {
     align-items: center;
 }
 .boton{
-margin-top: 07px;
+margin-top: 10px;
 overflow:visible;
 }
 
@@ -47,6 +47,7 @@ button:hover{
 table{
     border-color: white;
     color: white;
+    margin-top: 4px;
 }
 
 .Buscador {
@@ -75,5 +76,15 @@ table{
 }
 
 .Ubi{
-    margin-right:415px;
+    margin-right:210px;
+}
+
+.LogReg{
+    margin-left: 5px;
+}
+
+h5 {
+    margin-left: 5px;
+    font-size:13px;
+    font-family: Arial, Helvetica, sans-serif;
 }
