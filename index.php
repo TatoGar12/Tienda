@@ -47,10 +47,10 @@
         <div class="botones">
             <div class="boton">
                 <button><a href="">Categoría</a></button>
-                <button><a href="">PC</a></button>
-                <button><a href="">Xbox</a></button>
-                <button><a href="">PlayStation</a></button>
-                <button><a href="">Switch</a></button>
+                <button><a href="WebPc.php">PC</a></button>
+                <button><a href="WebXbox.php">Xbox</a></button>
+                <button><a href="WebPs.php">PlayStation</a></button>
+                <button><a href="WebSw">Switch</a></button>
             </div>
         </div>
     </div>

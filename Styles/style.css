@@ -46,7 +46,7 @@ button:hover{
 }
 
 table{
-    border-color: white;
+    border-color: rgb(255, 0, 0);
     color: white;
     margin-top: 4px;
 }
@@ -88,4 +88,31 @@ h5 {
     margin-left: 5px;
     font-size:13px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+#Assas {
+height:55vh ;
+width:45vh ;
+margin-right: 0.7vh;
+margin-left: 0.7vh;
+}
+
+#Stard {
+    height:55vh ;
+    width:30vh ; 
+}
+
+#Minec {
+    height:55vh ;
+    width:30vh ;
+}
+
+.Scroll {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Ima {
+    margin-top: 2.5vh;
 }

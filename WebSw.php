@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="Styles/style.css">
+    <link rel="stylesheet" href="Styles/styleSw.css">
     <link rel="icon" href="Imagenes/3d.png">
     <title>PixelGames</title>
 </head>
@@ -46,24 +46,13 @@
         </div>
         <div class="botones">
             <div class="boton">
+                <button><a href="index.php">Inicio</a></button>
                 <button><a href="">Categoría</a></button>
-                <button><a href="">PC</a></button>
-                <button><a href="">Xbox</a></button>
-                <button><a href="">PlayStation</a></button>
-                <button><a href="">Switch</a></button>
+                <button><a href="WebPc.php">Pc</a></button>
+                <button><a href="WebPs.php">PlayStation</a></button>
+                <button><a href="WebXbox.php">Xbox</a></button>
             </div>
         </div>
-    </div>
-    <div class="Scroll">
-        <table class="Ima">
-            <tr>
-                <div class="ImagenesPor">
-                    <th><img id="Stard" src="Imagenes/ImgPortada/Staardew-Valley.jpg" alt="Stardew"></th>
-                    <th><img id="Assas" src="Imagenes/ImgPortada/Assassins.jpg" alt="Assassins"></th>
-                    <th><img id="Minec" src="Imagenes/ImgPortada/Mine.jpg" alt="Minecraft"></th>
-                </div>
-            </tr>
-        </table>
     </div>
 </body>
 </html>
