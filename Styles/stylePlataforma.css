@@ -90,3 +90,18 @@ h5 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.Juegos{
+    margin:10px;
+    color: white;
+    background-color: rgb(17, 17, 17);
+    width: 50vh;
+    height: 60vh;
+    border-radius: 10vh;
+    box-shadow: 10px 5px 5px rgb(0, 245, 163);
+}
+
+.Imagen{
+    height: 35vh;
+    width: 30vh;
+    border-radius: 5vh;
+}

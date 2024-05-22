@@ -47,11 +47,10 @@
         </div>
         <div class="botones">
             <div class="boton">
-                <button><a href="">Categoría</a></button>
                 <button><a href="WebPc.php">PC</a></button>
                 <button><a href="WebXbox.php">Xbox</a></button>
                 <button><a href="WebPs.php">PlayStation</a></button>
-                <button><a href="WebSw">Switch</a></button>
+                <button><a href="WebSw.php">Switch</a></button>
             </div>
         </div>
     </div>
@@ -159,6 +158,21 @@
                 </table>
             </div>
         </div>
+    </section>
+
+    <section>
+    <footer>
+        Correo Electronico: <br>
+        Tatogarcia1112@gmail.com <br>
+        Luisfriaza@gmail.com <br> 
+        <br>
+        Telefono:097 424 535<br>
+        <br>
+        Propietarios: <br>
+        Facundo Garcia<br>
+        Luis Friaza<br>
+        Facundo Bueno<br>
+    </footer>
     </section>
 </body>
 </html>
