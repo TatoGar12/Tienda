@@ -56,7 +56,6 @@
         </div>
     </div>
     </section>
-
     <section>
     <div class="Scroll">
         <table class="Ima">
@@ -72,32 +71,95 @@
     </section>
 
     <section>
+    <div class="ofertas">¡Ofertas imperdibles!</div>
         <div class="Sup">
-            <div class="Ubi">
-                <h2 class="Offerts">Ofertas</h2>
-                <div class="GameOffert">
-                    <img src="" alt="Minecraft" width="200vh" height="200vh">
-                        <div class="Descripcion">
-                            <h4>
-                            Minecraft 
-                            </h4>
-                        </div>
-                </div>
-                <div class="GameOffert">
-
-                </div>
-                <div class="GameOffert">
-
-                </div>
-                <div class="GameOffert">
-
-                </div>
-                <div class="GameOffert">
-
-                </div>
-                </div>
+            <div class="Offert">
+                <table>
+                    <tr>
+                        <th><img src="Imagenes/Ofertas/MinecraftVanila.png" alt="Minecraft" height="150vh" width="150vh"></th>
+                        <th>
+                            Minecraft<br>
+                            Minecraft es un videojuego de tipo "sandbox" de mundo abierto. <br>
+                            En él, los jugadores exploran un mundo generado aleatoriamente, <br>
+                            compuesto por bloques de tierra, roca y otros materiales. <br>
+                        </th>
+                    </tr>
+                            <th colspan="2">
+                                <div class="botones">
+                                    <div class="boton">
+                                        <button class="Comprar"><a href="">Comprarlo por 19.99$</a></button>
+                                    </div>
+                                </div>
+                            </th>
+                    </tr>
+                </table>
+            </div>
+    
+            <div class="Offert">
+            <table>
+                    <tr>
+                        <th><img src="Imagenes/Ofertas/Terrari.jpg" alt="Minecraft" height="150vh" width="150vh"></th>
+                        <th>
+                            Terraria<br>
+                            Terraria es un videojuego de aventura en 2D que pone un gran <br> 
+                            énfasis en la exploración, el combate, la creación y la construcción.
+                        </th>
+                    </tr>
+                            <th colspan="2">
+                                <div class="botones">
+                                    <div class="boton">
+                                        <button class="Comprar"><a href="">Comprarlo por 4.99$</a></button>
+                                    </div>
+                                </div>
+                            </th>
+                    </tr>
+                </table>
+            </div>
+        
+            <div class="Offert">
+            <table>
+                    <tr>
+                        <th><img src="Imagenes/Ofertas/GtaV.jpg" alt="Minecraft" height="150vh" width="150vh"></th>
+                        <th>
+                            Gta V<br>
+                            Grand Theft Auto V (abreviado como GTA V o GTA 5) es un videojuego de <br>
+                            acción-aventura de mundo abierto desarrollado por el estudio escocés <br>
+                            Rockstar North y distribuido por Rockstar Games.
+                        </th>
+                    </tr>
+                            <th colspan="2">
+                                <div class="botones">
+                                    <div class="boton">
+                                        <button class="Comprar"><a href="">Comprarlo por 24.99$</a></button>
+                                    </div>
+                                </div>
+                            </th>
+                    </tr>
+                </table>
+            </div>
+        
+            <div class="Offert">
+                                <table>
+                    <tr>
+                        <th><img src="Imagenes/Ofertas/CallOfDuty.jpg" alt="Minecraft" height="150vh" width="150vh"></th>
+                        <th>
+                            Call Of Duty Moderm warfare<br>
+                            Call of Duty: Modern Warfare (2019) es un videojuego de disparos <br>
+                            en primera persona (FPS) que reinicia la serie Modern Warfare.
+                        </th>
+                    </tr>
+                            <th colspan="2">
+                                <div class="botones">
+                                    <div class="boton">
+                                        <button class="Comprar"><a href="">Comprarlo por 35.99</a></button>
+                                    </div>
+                                </div>
+                            </th>
+                    </tr>
+                </table>
+            </div>
         </div>
-    </section>     
+    </section>
 </body>
 </html>
 

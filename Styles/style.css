@@ -117,3 +117,36 @@ margin-left: 0.7vh;
     margin-top: 2.5vh;
 }
 
+.ofertas {
+    background-color: black; 
+    color: white;           
+    font-size: 2em;          
+    padding: 10px;  
+    margin-top: 15px;
+    box-shadow: 10px 5px 5px rgb(0, 245, 163);
+    text-align: center;
+  }
+  
+  .Offert{
+    background-color: black; 
+    color: white;           
+    font-size: 1em;          
+    padding: 10px;  
+    margin:25px;
+    border-radius: 70vh;
+    box-shadow: 10px 5px 5px rgb(0, 245, 163);
+    text-align: center;
+    overflow:hidden;
+    
+  }
+
+  #infoProducto {
+    display: none; /* Oculta el contenedor por defecto */
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+
+.escondido {
+    display: none; /* Clase para ocultar elementos */
+}
