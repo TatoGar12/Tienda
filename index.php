@@ -8,6 +8,7 @@
     <title>PixelGames</title>
 </head>
 <body>
+    <section>
     <div class="Contenedor">
         <div class="Sup">
             <div class="Ubi">
@@ -54,6 +55,9 @@
             </div>
         </div>
     </div>
+    </section>
+
+    <section>
     <div class="Scroll">
         <table class="Ima">
             <tr>
@@ -65,6 +69,35 @@
             </tr>
         </table>
     </div>
+    </section>
+
+    <section>
+        <div class="Sup">
+            <div class="Ubi">
+                <h2 class="Offerts">Ofertas</h2>
+                <div class="GameOffert">
+                    <img src="" alt="Minecraft" width="200vh" height="200vh">
+                        <div class="Descripcion">
+                            <h4>
+                            Minecraft 
+                            </h4>
+                        </div>
+                </div>
+                <div class="GameOffert">
+
+                </div>
+                <div class="GameOffert">
+
+                </div>
+                <div class="GameOffert">
+
+                </div>
+                <div class="GameOffert">
+
+                </div>
+                </div>
+        </div>
+    </section>     
 </body>
 </html>
 
