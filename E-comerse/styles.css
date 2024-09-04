@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('img/fondo.jpeg'); 
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+
+.header {
+    background-color: #f50505;
+    color: rgb(255, 255, 255);
+    padding: 1% 0;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.header img {
+    width: 6%; 
+    height: 6%; 
+    margin-right: 10px; 
+}
+.header h1 {
+    margin: 0; 
+    font-size: 3rem; 
+    font-family: 'Nerko One', sans-serif;
+}
+
+@font-face {
+    font-family: 'Nerko One';
+    src: url('/fonts/NerkoOne.woff2') format('woff2'),
+         url('/fonts/NerkoOne.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+ 
+.nav-bar {
+    background-color: #8f3c3c;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+}
+.nav-bar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+}
+.nav-bar a:hover {
+    background-color: #575757;
+}
+
+section {
+    display:flex;
+    width:60%;
+    height: 50%;
+    margin: auto;
+    margin-top: 2%;
+}
+
+section img {
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: .8;
+    transition: .5s ease;
+}
+
+section img:hover {
+    cursor: crosshair;
+    width:15%;
+    opacity: 1;
+    filter: contrast(120%);
+}
+footer{
+    background-color: #333; 
+    color: white;
+    text-align: center; 
+    padding: 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 px; 
+    position: fixed; 
+    left: 0; 
+    bottom: 0;
+    width: 100%;
+}
+.nerko-one-regular {
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
